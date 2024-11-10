@@ -1,10 +1,10 @@
-import Clock from "./Clock";
+import "./App.css";
+import Rocket from "./Rocket";
 
 function App() {
   return (
     <div className="App">
-      <h1 style={{ marginLeft: "60px" }}>Clock</h1>
-      <Clock />
+      <Rocket />
     </div>
   );
 }
