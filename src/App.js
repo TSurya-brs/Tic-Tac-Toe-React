@@ -1,10 +1,10 @@
 import "./App.css";
-import Rocket from "./Rocket";
+import Game from "./Game";
 
 function App() {
   return (
     <div className="App">
-      <Rocket />
+      <Game />
     </div>
   );
 }
